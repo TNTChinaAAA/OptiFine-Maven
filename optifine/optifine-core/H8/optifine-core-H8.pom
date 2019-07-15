@@ -6,4 +6,12 @@
   <groupId>optifine</groupId>
   <artifactId>optifine-core</artifactId>
   <version>H8</version>
+  
+  <dependencies>
+    <dependency>
+      <groupId>optifine</groupId>
+      <artifactId>optifine-core</artifactId>
+      <version>H8</version>
+    </dependency>
+  </dependencies>
 </project>
