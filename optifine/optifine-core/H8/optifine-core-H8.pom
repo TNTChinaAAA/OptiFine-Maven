@@ -3,15 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>test.download</groupId>
-  <artifactId>test.download</artifactId>
-  <version>1.0.0</version>
-
-  <dependencies>
-    <dependency>
-        <groupId>optifine</groupId>
-        <artifactId>optifine-core</artifactId>
-        <version>H8</version>
-    </dependency>
-  </dependencies>
+  <groupId>optifine</groupId>
+  <artifactId>optifine-core</artifactId>
+  <version>H8</version>
 </project>
