@@ -1,0 +1,10 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>optifine</groupId>
+	<artifactId>OptiFine-parent</artifactId>
+	<version>H8</version>
+	<packaging>pom</packaging>
+	<name>OptiFine Maven distribution - parent</name>
+	<description>Maven distribution of the Slick 2D game development library</description>
+	<url>https://github.com/TNTChinaAAA/OptiFine-Maven/</url>
+</project>
