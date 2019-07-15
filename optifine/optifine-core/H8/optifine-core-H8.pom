@@ -2,11 +2,23 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-
   <groupId>optifine</groupId>
   <artifactId>optifine-core</artifactId>
   <version>H8</version>
-  
+  <parent>  
+       <artifactId>OptiFine-parent<artifactId/>  
+       <groupId>optifine<groupId/>  
+       <version>H8<version/>   
+  </parent> 
+  <scm>
+    <connection>scm:git:git://github.com/TNTChinaAAA/OptiFine-Maven/OptiFine-Maven.git</connection>
+    <developerConnection>scm:git:git@github.com:TNTChinaAAA/OptiFine-Maven.git</developerConnection>
+    <url>https://github.com/TNTChinaAAA/OptiFine-Maven</url>
+  </scm>
+  <issueManagement>
+    <system>GitHub Issues</system>
+    <url>https://github.com/TNTChinaAAA/OptiFine-Maven/issues</url>
+  </issueManagement>
   <dependencies>
     <dependency>
       <groupId>optifine</groupId>
